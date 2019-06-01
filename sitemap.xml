@@ -2,37 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Crawling/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/VSM/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/TF-IDF/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Seleksi_Fitur/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/K-Means/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Silhouette/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/indexlink/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/crawlinglink/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Graph/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/PageRank/</loc>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
